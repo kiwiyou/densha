@@ -10,6 +10,12 @@
 			d="M 65 305 H 370 V 430 H 500 L 850 780 H 940 V 888 H 1480 L 1560 808 H 1830 L 1910 888 H 2010 L 2090 808 V 620 H 2300 M 940 860 H 850 L 730 740 H 800"
 			fill="none" stroke="#d3effb" stroke-width="23" stroke-linejoin="round" stroke-linecap="round"></path>
 	</svg>
+	<g class="path L3">
+		<rect x="650" y="10" width="200" height="40" fill="#3b00de" stroke="#3b00de" stroke-linejoin="round"
+			stroke-linecap="round" stroke-width="5"></rect><text x="750" y="42" lengthAdjust="spacingAndGlyphs"
+			text-anchor="middle"
+			style="fill:white; stroke:white; stroke-width:0.4; font-size:32px; font-weight:normal; line-height:10px">首都圏電車図</text>
+	</g>
 	<g class="line" fill="none" stroke="#052f93" stroke-linejoin="round" stroke-linecap="round">
 		<path class="path L1" stroke-width="3" d="M 535 40 H 565 "></path>
 		<path class="path L1 P19191918 P19181919" stroke-width="3" d="M 565 40 H 590 "></path>
