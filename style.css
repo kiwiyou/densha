@@ -1,0 +1,10 @@
+body {
+    margin: 0;
+    background: white;
+}
+
+#bg {
+    object-fit: contain;
+    min-height: 70em;
+    min-width: 120em;
+}
