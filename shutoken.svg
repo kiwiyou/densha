@@ -4920,9 +4920,7 @@
 			<tspan x="419" dx="7" dy="0" font-size="4px">バル</tspan>
 		</text><text class="label S0311 L3 S2615 L6" y="175" id="S0311" style=" text-anchor:end;" uid="0311"
 			lineId="3 6">
-			<tspan x="440" dx="-7" dy="15" font-size="9px" font-weight="bold">延新ネ</tspan>
-			<tspan x="440" dx="-24" dy="-8" font-size="4px" font-weight="bold">ヨン</tspan>
-			<tspan x="440" dx="-17" dy="0" font-size="4px" font-weight="bold">シン</tspan>
+			<tspan x="440" dx="-7" dy="15" font-size="9px" font-weight="bold">ヨンシンネ</tspan>
 		</text><text class="label S0312 L3 S2613 L6" y="175" id="S0312" style=" text-anchor:start;" uid="0312"
 			lineId="3 6">
 			<tspan x="500" dx="7" dy="15" font-size="9px" font-weight="bold">佛光</tspan>
